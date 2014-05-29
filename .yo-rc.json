@@ -1,0 +1,14 @@
+{
+  "generator-xh": {
+    "config": {
+      "projectName": "Akamai",
+      "useBranding": false,
+      "cssPreprocessor": "SCSS",
+      "isWP": false,
+      "features": [
+        "useModernizr",
+        "useCSS3Pie"
+      ]
+    }
+  }
+}
